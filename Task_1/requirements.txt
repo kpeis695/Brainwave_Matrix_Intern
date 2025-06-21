@@ -1,0 +1,18 @@
+# ATM Interface System - Dependencies
+# Python Programming Internship - Task 1
+# Brainwave Matrix Solutions
+
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - json (data persistence)
+# - os (file operations)
+# - datetime (timestamping)
+# - getpass (secure input)
+
+# Python version requirement
+# python>=3.8
+
+# For development/testing (optional):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
